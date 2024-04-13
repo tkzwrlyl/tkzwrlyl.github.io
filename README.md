@@ -22,9 +22,9 @@
 ## 1.作业1
 ### 作业1描述
 #### 作业1是课后作业，链接展现了路遥的小说《平凡的世界》中的人物关系图。
-### [作业1链接](https://tkzwrlyl.github.io/2023年全国各省gdp数据地图_geo.html)
+### [作业1链接](https://tkzwrlyl.github.io/《平凡的世界》网页版人物关系图的副本.html)
 
 ## 2.作业2
 ### 作业2描述
 #### 作业2是课上练习，实现了google搜索跳转。
-### [作业2链接](https://tkzwrlyl.github.io/厦门各区房价_timeline_bar.html) 
+### [作业2链接](https://tkzwrlyl.github.io/google一下.html) 
