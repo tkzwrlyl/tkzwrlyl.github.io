@@ -34,4 +34,4 @@
 ## 1.大作业
 ### 大作业描述
 #### 详见大作业报告书
-### [链接](https://tkzwrlyl.github.io/《平凡的世界》网页版人物关系图的副本.html)
+### [链接](https://tkzwrlyl.github.io/ershoufang_data_visualization.html)
